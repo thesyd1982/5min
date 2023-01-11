@@ -1,11 +1,12 @@
 {
     "name": "5min",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "description": "",
     "main": "index.js",
     "type": "module",
     "scripts": {
-      "start": "node ."
+      "start": "node .",
+      "test":"echo 'Error: no test specified' && exit 1"
     },
     "repository":{
         "type":"git",
